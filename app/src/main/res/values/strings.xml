@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="product_type">Product Type</string>
+    <string name="manager">Manager</string>
+    <string name="total">Total</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="c">c</string>
+    <string name="_0">0</string>
+    <string name="buy">Buy</string>
+    <string name="quantity">Quantity</string>
+</resources>
